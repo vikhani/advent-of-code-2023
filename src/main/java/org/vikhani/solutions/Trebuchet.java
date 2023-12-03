@@ -114,23 +114,23 @@ public class Trebuchet {
         return sum;
     }
 
-    private static Integer spelledNumToInt(int windowSize, String n) {
+    private static Integer spelledNumToInt(int windowSize, String spelledNumber) {
         Integer res = null;
         if (windowSize == 3) {
-            switch (n) {
+            switch (spelledNumber) {
                 case "one" -> res = 1;
                 case "two" -> res = 2;
                 case "six" -> res = 6;
             }
         } else if (windowSize == 4) {
-            switch (n) {
+            switch (spelledNumber) {
                 case "zero" -> res = 0;
                 case "four" -> res = 4;
                 case "five" -> res = 5;
                 case "nine" -> res = 9;
             }
         } else if (windowSize == 5) {
-            switch (n) {
+            switch (spelledNumber) {
                 case "three" -> res = 3;
                 case "seven" -> res = 7;
                 case "eight" -> res = 8;
