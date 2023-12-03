@@ -42,3 +42,7 @@ S
 Q.idea/sonarlint/securityhotspotstore/6/4/649921cc57fec446b0d908ccb7861588ac7540b6,3/7/371915ca50b66bc0b23b3b6784f4cdc592bd8081
 Å
 Q.idea/sonarlint/securityhotspotstore/b/2/b293bf4ebf224bdb07d3b6d40889bd2adeb75438,2/3/231995c0f7ceed98c16203930132dd1571aa5bdd
+c
+3src/main/java/org/vikhani/solutions/GearRatios.java,f/f/ffc23390816ef72837ff4a7c235e1fea42822ae1
+g
+7src/test/java/org/vikhani/solutions/GearRatiosTest.java,8/6/86bab2044a7d4290dbdef1c0e51f6e80d0636297

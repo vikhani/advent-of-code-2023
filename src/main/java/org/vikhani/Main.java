@@ -1,6 +1,7 @@
 package org.vikhani;
 
 import org.vikhani.solutions.Conundrum;
+import org.vikhani.solutions.GearRatios;
 import org.vikhani.solutions.Trebuchet;
 
 import java.io.IOException;
@@ -14,5 +15,8 @@ public class Main {
         var conundrum = new Conundrum();
         System.out.println("Day 2 Problem 1: " + conundrum.solveFirstProblem());
         System.out.println("Day 2 Problem 2: " + conundrum.solveSecondProblem());
+
+        var gearRatios = new GearRatios();
+        System.out.println("Day 3 Problem 1: " + gearRatios.solveFirstProblem());
     }
 }
