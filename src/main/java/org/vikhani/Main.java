@@ -2,6 +2,7 @@ package org.vikhani;
 
 import org.vikhani.solutions.Conundrum;
 import org.vikhani.solutions.GearRatios;
+import org.vikhani.solutions.Scratchcards;
 import org.vikhani.solutions.Trebuchet;
 
 import java.io.IOException;
@@ -18,5 +19,8 @@ public class Main {
 
         var gearRatios = new GearRatios();
         System.out.println("Day 3 Problem 1: " + gearRatios.solveFirstProblem());
+
+        var scratchcards = new Scratchcards();
+        System.out.println("Day 4 Problem 1: " + scratchcards.solveFirstProblem());
     }
 }

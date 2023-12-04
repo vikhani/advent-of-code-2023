@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
+//--- Day 3: Gear Ratios ---
 public class GearRatios {
     private static final String INPUT_NAME = "3_input.txt";
 

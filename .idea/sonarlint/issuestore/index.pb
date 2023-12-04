@@ -46,3 +46,5 @@ c
 3src/main/java/org/vikhani/solutions/GearRatios.java,f/f/ffc23390816ef72837ff4a7c235e1fea42822ae1
 g
 7src/test/java/org/vikhani/solutions/GearRatiosTest.java,8/6/86bab2044a7d4290dbdef1c0e51f6e80d0636297
+e
+5src/main/java/org/vikhani/solutions/Scratchcards.java,1/6/1666b1b35e5b8d430a92cf7de5d08c2486fae208
