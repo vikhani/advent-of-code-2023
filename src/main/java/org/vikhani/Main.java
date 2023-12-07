@@ -3,7 +3,9 @@ package org.vikhani;
 import org.vikhani.solutions.Conundrum;
 import org.vikhani.solutions.GearRatios;
 import org.vikhani.solutions.Scratchcards;
+import org.vikhani.solutions.SeedToLocation;
 import org.vikhani.solutions.Trebuchet;
+import org.vikhani.solutions.WaitForIt;
 
 import java.io.IOException;
 
@@ -22,5 +24,11 @@ public class Main {
 
         var scratchcards = new Scratchcards();
         System.out.println("Day 4 Problem 1: " + scratchcards.solveFirstProblem());
+
+        var seeds = new SeedToLocation();
+        System.out.println("Day 5 Problem 1: " + seeds.solveFirstProblem());
+        var wait = new WaitForIt();
+        System.out.println("Day 6 Problem 1: " + wait.solveFirstProblem());
+        System.out.println("Day 6 Problem 2: " + wait.solveSecondProblem());
     }
 }

@@ -1,6 +1,4 @@
 
-`
-0src/main/java/org/vikhani/solutions/01_trebuchet,b/4/b40de565c3804cf55712420a40b8c37942652c73
 S
 #src/main/java/org/vikhani/Main.java,d/b/db638b1b812513e2bbef15e28e43f45b17237e7b
 @
@@ -44,7 +42,17 @@ Q.idea/sonarlint/securityhotspotstore/6/4/649921cc57fec446b0d908ccb7861588ac7540
 Q.idea/sonarlint/securityhotspotstore/b/2/b293bf4ebf224bdb07d3b6d40889bd2adeb75438,2/3/231995c0f7ceed98c16203930132dd1571aa5bdd
 c
 3src/main/java/org/vikhani/solutions/GearRatios.java,f/f/ffc23390816ef72837ff4a7c235e1fea42822ae1
-g
-7src/test/java/org/vikhani/solutions/GearRatiosTest.java,8/6/86bab2044a7d4290dbdef1c0e51f6e80d0636297
 e
 5src/main/java/org/vikhani/solutions/Scratchcards.java,1/6/1666b1b35e5b8d430a92cf7de5d08c2486fae208
+g
+7src/main/java/org/vikhani/solutions/SeedToLocation.java,1/4/14bee923addfadb535cc3f842bf1d335c7ec0c8c
+k
+;src/test/java/org/vikhani/solutions/SeedToLocationTest.java,8/3/83dc2f025d7fd7b564e650be63c7ad4e1aa04d81
+S
+#src/test/java/resources/5_input.txt,a/b/ab404568e9d7979cbf97832f9e1f500c5416a83d
+N
+src/test/resources/5_input.txt,4/6/46d89011d9258719625f99a941b3f5a156e8f911
+b
+2src/main/java/org/vikhani/solutions/WaitForIt.java,e/9/e973bded0608959f28e0c0e35a0a4a4ba72d3fbc
+f
+6src/test/java/org/vikhani/solutions/WaitForItTest.java,e/6/e64576b0c61cfe7e5a5f6c5db2b2bc75233d168b
