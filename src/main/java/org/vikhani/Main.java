@@ -2,10 +2,12 @@ package org.vikhani;
 
 import org.vikhani.solutions.Conundrum;
 import org.vikhani.solutions.GearRatios;
+import org.vikhani.solutions.Mirage;
 import org.vikhani.solutions.Scratchcards;
 import org.vikhani.solutions.SeedToLocation;
 import org.vikhani.solutions.Trebuchet;
 import org.vikhani.solutions.WaitForIt;
+import org.vikhani.solutions.Wasteland;
 
 import java.io.IOException;
 
@@ -27,8 +29,18 @@ public class Main {
 
         var seeds = new SeedToLocation();
         System.out.println("Day 5 Problem 1: " + seeds.solveFirstProblem());
+
         var wait = new WaitForIt();
         System.out.println("Day 6 Problem 1: " + wait.solveFirstProblem());
         System.out.println("Day 6 Problem 2: " + wait.solveSecondProblem());
+
+        var waste = new Wasteland();
+        System.out.println("Day 8 Problem 1: " + waste.solveFirstProblem());
+        // Endless cycle :С
+//      System.out.println("Day 8 Problem 2: " + waste.solveSecondProblem());
+
+        var mirage = new Mirage();
+        System.out.println("Day 9 Problem 1: " + mirage.solveFirstProblem());
+        System.out.println("Day 9 Problem 2: " + mirage.solveSecondProblem());
     }
 }

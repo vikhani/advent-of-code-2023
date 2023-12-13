@@ -1,0 +1,6 @@
+
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ªÌ¿Ñ8ÇþÀ±Ã1
+g
+java:S2184+"ECast one of the operands of this subtraction operation to a "double".(ë–‹œúÿÿÿÿ8ÈþÀ±Ã1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8äþÀ±Ã1
